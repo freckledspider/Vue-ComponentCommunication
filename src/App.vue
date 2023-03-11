@@ -12,7 +12,6 @@
       <friend-contact 
       name="Julie Jones" 
       phone-number="0987 654421 21" email="julie@localhost.com"
-      is-favorite="0"
       ></friend-contact>
     </ul>
   </section>
